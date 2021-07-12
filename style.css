@@ -1,5 +1,6 @@
 ﻿body
 {
+    background-color:lightpink;
 }
 
 h1
@@ -36,7 +37,7 @@ h2
 
 #bucky
 {
-    color:silver;
+    color:blue;
 }
 
 #wanda
@@ -59,4 +60,9 @@ figure
 {
     font-weight:bold;
     font-style:italic;
+}
+
+img
+{
+    border: 2px solid #000000
 }
